@@ -781,7 +781,7 @@ client.on("interactionCreate", async (interaction) => {
   //// W ////
   //// X ////
   //// Y ////
-  //// Z ////
+  //// Z ///
 });
 
 // 주사위 게임 & 가위바위보
